@@ -28,14 +28,6 @@ public class LiveFragment extends Fragment implements View.OnClickListener {
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.fragment_live, container, false);
 
-        Toolbar toolbar = rootView.findViewById(R.id.toolbar);
-        ((AppCompatActivity)getActivity()).setSupportActionBar(toolbar);
-
-        ActionBar actionBar = ((AppCompatActivity) getActivity()).getSupportActionBar();
-        actionBar.setDisplayHomeAsUpEnabled(true);
-        actionBar.setHomeAsUpIndicator(R.drawable.ic_menu);
-
-
         TextView issCameraEarthView = rootView.findViewById(R.id.iss_camera_earth_view);
         TextView nasaMediaTv = rootView.findViewById(R.id.nasa_media_tv);
         TextView nasaLiveTv = rootView.findViewById(R.id.nasa_live_tv);

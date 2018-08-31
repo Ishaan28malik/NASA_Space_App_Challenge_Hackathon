@@ -57,10 +57,10 @@ public class MainActivity extends AppCompatActivity {
                 fragmentClass = HomeFragment.class;
                 break;
             case R.id.status :
-                fragmentClass = HomeFragment.class;
+                fragmentClass = StatusFragment.class;
                 break;
             case R.id.updates :
-                fragmentClass = HomeFragment.class;
+                fragmentClass = UpdatesFragment.class;
                 break;
             case R.id.live :
                 fragmentClass = LiveFragment.class;
