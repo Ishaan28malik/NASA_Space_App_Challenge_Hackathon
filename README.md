@@ -12,3 +12,10 @@ twice/thrice a day depending upon the number of events taking place daily.
 ![Frame4](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%205.31.18%20AM.png?raw=true)
 ![Frame5](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%205.31.51%20AM.png?raw=true)
 ![Frame6](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%205.34.21%20AM.png?raw=true)
+
+#Smart Watch Frames Prototype
+![Frame1](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%206.24.38%20AM.png?raw=true)
+![Frame2](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%206.10.56%20AM.png?raw=true)
+![Frame3](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%206.11.20%20AM.png?raw=true)
+![Frame4](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%206.14.16%20AM.png?raw=true)
+![Frame5](https://github.com/thedevelopersanjeev/NASA_Space_App_Challenge_Hackathon/blob/master/Screen%20Shot%202018-09-01%20at%206.15.00%20AM.png?raw=true)
